@@ -1,0 +1,14 @@
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.AssemblyInfoInputs.cache
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.AssemblyInfo.cs
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.csproj.CoreCompileInputs.cache
+D:\Загрузки\Обучение\programming\seminar2\HM\bin\Debug\net8.0\HM.exe
+D:\Загрузки\Обучение\programming\seminar2\HM\bin\Debug\net8.0\HM.deps.json
+D:\Загрузки\Обучение\programming\seminar2\HM\bin\Debug\net8.0\HM.runtimeconfig.json
+D:\Загрузки\Обучение\programming\seminar2\HM\bin\Debug\net8.0\HM.dll
+D:\Загрузки\Обучение\programming\seminar2\HM\bin\Debug\net8.0\HM.pdb
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.dll
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\refint\HM.dll
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.pdb
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.genruntimeconfig.cache
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\ref\HM.dll
