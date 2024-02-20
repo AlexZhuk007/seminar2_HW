@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Загрузки\\Обучение\\programming\\seminar2\\HM\\HM.csproj": {}
+    "D:\\Загрузки\\Обучение\\programming\\seminar2\\hm\\HM.csproj": {}
   },
   "projects": {
-    "D:\\Загрузки\\Обучение\\programming\\seminar2\\HM\\HM.csproj": {
+    "D:\\Загрузки\\Обучение\\programming\\seminar2\\hm\\HM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Загрузки\\Обучение\\programming\\seminar2\\HM\\HM.csproj",
+        "projectUniqueName": "D:\\Загрузки\\Обучение\\programming\\seminar2\\hm\\HM.csproj",
         "projectName": "HM",
-        "projectPath": "D:\\Загрузки\\Обучение\\programming\\seminar2\\HM\\HM.csproj",
+        "projectPath": "D:\\Загрузки\\Обучение\\programming\\seminar2\\hm\\HM.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "D:\\Загрузки\\Обучение\\programming\\seminar2\\HM\\obj\\",
+        "outputPath": "D:\\Загрузки\\Обучение\\programming\\seminar2\\hm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config"

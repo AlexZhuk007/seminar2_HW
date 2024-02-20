@@ -44,20 +44,60 @@
 //на вход целое число из отрезка [10, 99] и показывает
 //наибольшую цифру числа.
 
-int num = 71;
+//int num = 88;
 
-int first = num/10;
-int second = num%10;
+//int first = num / 10;
+//int second = num % 10;
 
-if (first>second)
-{
-    Console.Write (first);
-}
-else
-{
-    Console.Write (second);
-}
+//if (num < 10 ^ num > 99)
+//{
+//    Console.Write("Значение за переделами диапазона");
+//}
+
+//else if (first == second)
+//{
+//    Console.Write("равны");
+//}
+
+//else if (first > second)
+//{
+//    Console.Write(first);
+//}
+//else
+//{
+//    Console.Write(second);
+//}
+
+
 //4. Напишите программу, которая на вход
 //принимает натуральное число N, а на выходе
 //показывает его цифры через запятую.
 
+using System.Runtime.CompilerServices;
+
+int num = 1234;
+int num1 = num; 
+int raz = 0;
+int result = 0;
+
+while (num > 0)
+{
+    num = num / 10;
+    raz++;   
+}
+//Console.Write(raz);
+
+
+while (num1>0)
+{
+    result = num1%10;
+    num1=num1/10;
+    if (num1>0)
+    {
+      Console.Write(result + ", ");  
+    }
+    else{
+    Console.Write(result);
+}}
+
+return result;
