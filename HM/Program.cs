@@ -73,31 +73,31 @@
 //принимает натуральное число N, а на выходе
 //показывает его цифры через запятую.
 
-using System.Runtime.CompilerServices;
+//int num = 32346;
+//int num1 = num; 
+//int result = 0;
 
-int num = 1234;
-int num1 = num; 
-int raz = 0;
-int result = 0;
 
-while (num > 0)
+
+//while (num1>0)
+//{
+//    result = num1%10;
+//    num1=num1/10;
+//    if (num1>0)
+//    {
+//      Console.Write(result + ", ");  
+//    }
+//    else{
+//    Console.Write(result);
+//}}
+
+
+int x = 5284157;
+int[] a = new int[x.ToString().Length];
+for (int i = 0; i < a.Length; i++)
 {
-    num = num / 10;
-    raz++;   
+  a[i] = x % 10;
+  x /= 10;
 }
-//Console.Write(raz);
-
-
-while (num1>0)
-{
-    result = num1%10;
-    num1=num1/10;
-    if (num1>0)
-    {
-      Console.Write(result + ", ");  
-    }
-    else{
-    Console.Write(result);
-}}
-
-return result;
+Array.Reverse(a);
+Console.WriteLine(string.Join(", ", a));

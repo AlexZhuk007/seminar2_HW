@@ -12,3 +12,4 @@ D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\re
 D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.pdb
 D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.genruntimeconfig.cache
 D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\ref\HM.dll
+D:\Загрузки\Обучение\programming\seminar2\HM\obj\Debug\net8.0\HM.sourcelink.json
